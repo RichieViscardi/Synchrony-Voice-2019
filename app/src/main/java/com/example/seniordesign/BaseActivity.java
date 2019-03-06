@@ -1,6 +1,7 @@
 package com.example.seniordesign;
 
-import android.support.v7.app.AppCompatActivity;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * Generalized Activity to be used throughout app

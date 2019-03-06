@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_accounts">
+        <item>Bank Accounts</item>
+        <item>Bank 1</item>
+        <item>Bank 2</item>
+        <item>Bank 3</item>
+    </string-array>
+</resources>
